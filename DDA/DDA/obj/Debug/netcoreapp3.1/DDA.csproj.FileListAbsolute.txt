@@ -1,0 +1,15 @@
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.exe
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.deps.json
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.json
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.dev.json
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.dll
+D:\F School\Graphics\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.pdb
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csprojAssemblyReference.cache
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.Form1.resources
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.GenerateResource.cache
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfoInputs.cache
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfo.cs
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.CoreCompileInputs.cache
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.dll
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.pdb
+D:\F School\Graphics\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.genruntimeconfig.cache
